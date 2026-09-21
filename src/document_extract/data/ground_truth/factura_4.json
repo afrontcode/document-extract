@@ -1,0 +1,10 @@
+{
+  "filename": "factura_4.PDF",
+  "datos": {
+    "cliente_nombre": "ASFALTO Y DIESEL DEL PERU S.A.C.",
+    "ruc_cliente": "20607524956",
+    "fecha_emision": "27/08/2026",
+    "moneda": "SOLES",
+    "monto_total": 3018.71
+  }
+}
