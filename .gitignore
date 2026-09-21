@@ -6,7 +6,7 @@ dist/
 wheels/
 *.egg-info
 
-data/raws_pdfs
+src/document_extract/data/raw_pdfs/
 
 .env
 
